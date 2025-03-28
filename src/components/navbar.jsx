@@ -12,7 +12,7 @@ export default function Navbar() {
       {/* Desktop Menu */}
       <div className="hidden sm:flex space-x-8 text-xl">
         <a href="#" className="text-blue-400 hover:text-blue-500 transition">About</a>
-        <a href="https://drive.usercontent.google.com/u/0/uc?id=1cqSGMZLeF3vXVng75z2hbFQBoKf2XfCv&export=download" className="text-blue-400 hover:text-blue-500 transition">Resume</a>
+        <a href="https://drive.usercontent.google.com/u/1/uc?id=1159lBNiFjIpf0pm7My2LSInvlmHsvKpV&export=download" className="text-blue-400 hover:text-blue-500 transition">Resume</a>
         <a href="#" className="text-blue-400 hover:text-blue-500 transition">Contact Me</a>
       </div>
 
@@ -32,7 +32,7 @@ export default function Navbar() {
         }`}
       >
         <a href="#" className="text-blue-400 hover:text-blue-500 text-2xl" onClick={() => setIsOpen(false)}>About</a>
-        <a href="https://drive.google.com/file/d/1159lBNiFjIpf0pm7My2LSInvlmHsvKpV/view" className="text-blue-400 hover:text-blue-500 text-2xl" onClick={() => setIsOpen(false)}>Resume</a>
+        <a href="https://drive.usercontent.google.com/u/1/uc?id=1159lBNiFjIpf0pm7My2LSInvlmHsvKpV&export=download" className="text-blue-400 hover:text-blue-500 text-2xl" onClick={() => setIsOpen(false)}>Resume</a>
         <a href="#" className="text-blue-400 hover:text-blue-500 text-2xl" onClick={() => setIsOpen(false)}>Contact Me</a>
       </div>
     </nav>
