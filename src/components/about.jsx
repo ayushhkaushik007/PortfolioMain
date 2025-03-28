@@ -61,7 +61,7 @@ export default function About() {
             </p>
             <p className="text-lg text-gray-300 mt-4">
               When I'm not busy crafting sleek designs or building cool apps, you’ll probably find me
-              lost in a video game, binge-watching sitcoms, or trying to convince my plants to stay alive.
+              lost in a video game, binge-watching sitcoms, or over analyzing random life decisions.
             </p>
             <p className="text-lg text-gray-300 mt-4">
               As a theatre artist and part-time musician, I’ve mastered the art of both dramatic pauses
