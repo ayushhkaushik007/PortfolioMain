@@ -12,7 +12,7 @@ export default function Navbar() {
       {/* Desktop Menu */}
       <div className="hidden sm:flex space-x-8 text-xl">
         <a href="#" className="text-blue-400 hover:text-blue-500 transition">About</a>
-        <a href="https://drive.usercontent.google.com/u/1/uc?id=1159lBNiFjIpf0pm7My2LSInvlmHsvKpV&export=download" className="text-blue-400 hover:text-blue-500 transition">Resume</a>
+        <a href="https://drive.google.com/file/d/1efa0WKEQ8AAwAeUF3R3g3Lm_q-dj3ABA/view?usp=sharing&authuser=1" className="text-blue-400 hover:text-blue-500 transition">Resume</a>
         <a href="#" className="text-blue-400 hover:text-blue-500 transition">Contact Me</a>
       </div>
 
